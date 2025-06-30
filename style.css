@@ -15,6 +15,10 @@ body {
     background: linear-gradient(90deg,#210307 0%, #120112 50%, #140140 100%);
 }
 
+.villanos_background{
+    background: linear-gradient(90deg,#150321 0%, #120112 50%, #064001 100%);
+}
+
 h1 {
     font-size: 3rem;
     text-align: center;
